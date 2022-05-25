@@ -1,4 +1,4 @@
-# Beep-Beep Car Runner
+# TORRUSGame
 
 Please play my game :)
 

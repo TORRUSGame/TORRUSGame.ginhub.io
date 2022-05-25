@@ -4,7 +4,7 @@ Please play my game :)
 
 ## My Games
 
-![Image](beepbeepImage.png =50x50) [Beep-Beep Car Runner](https://play.google.com/store/apps/details?id=com.EntLead.BeepBeep)
+![Image](beepbeepImage.png) [Beep-Beep Car Runner](https://play.google.com/store/apps/details?id=com.EntLead.BeepBeep)
 
 
 
